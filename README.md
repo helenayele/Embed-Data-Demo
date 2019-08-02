@@ -12,3 +12,6 @@ This is demo for embeding graphs in a website
 6.insert into readme.md file of the created web app in github
 
 That is all
+
+## Map :
+<p><iframe src="//batchgeo.com/map/e1fb00542fff48276f13bed3d56d6898" frameborder="0" width="100%" height="550" style="border:1px solid #aaa;"></iframe></p><p><small>View <a href="https://batchgeo.com/map/e1fb00542fff48276f13bed3d56d6898">My Map</a> in a full screen map</small></p>
